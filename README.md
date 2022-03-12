@@ -20,4 +20,4 @@ My name is Preetham John and I'm a Graduate student at NAU. I will be graduating
 - 🌱 I’m currently learning AI/ML algorithms, and Cloud computing (AWS/Azure/Docker)
 - 🤔 I’m looking for help with Jobs
 
--->
+
