@@ -1,5 +1,5 @@
 <!--Links-->
-[stats]: https://github-readme-stats.vercel.app/api?username=pj323&include_all_commits=true&count_private=true&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096
+<!-- [stats]: https://github-readme-stats.vercel.app/api?username=pj323&include_all_commits=true&count_private=true&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096 -->
 [top-lang]: https://github-readme-stats.vercel.app/api/top-langs?username=pj323&layout=compact&langs_count=8&title_color=3498db&bg_color=ffffff00&text_color=718096
 
 ### 👋🏽 Hello There!
