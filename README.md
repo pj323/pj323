@@ -6,7 +6,7 @@
 My name is Preetham John and I'm a Graduate student at NAU. I will be graduating in May 2022. I am currently Seeking Full-Time Opportunities in Software Engineering | Data Science Engineer | Full Stack Developer. I am an enthusiastic and a dedicated engineer towards technology. I am always excited to learn new things and also have a good amount of knowledge of software development.  
 
 ### :bar_chart: Statistics
-![stats]
+<!-- ![stats] -->
 
 ![top-lang]
 
