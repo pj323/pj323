@@ -1,16 +1,23 @@
-### Hi there 👋
+<!--Links-->
+[stats]: https://github-readme-stats.vercel.app/api?username=vigneshd332&include_all_commits=true&count_private=true&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096
+[top-lang]: https://github-readme-stats.vercel.app/api/top-langs?username=vigneshd332&layout=compact&langs_count=8&title_color=3498db&bg_color=ffffff00&text_color=718096
 
-<!--
-**pj323/pj323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋🏽 Hello There!
+My name is Preetham John and I'm a Graduate student at NAU. I will be graduating in May 2022. I am currently Seeking Full-Time Opportunities in Software Engineering | Data Science Engineer | Full Stack Developer. I am an enthusiastic and a dedicated engineer towards technology. I am always excited to learn new things and also have a good amount of knowledge of software development.  
 
-Here are some ideas to get you started:
+### :bar_chart: Statistics
+![stats]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![top-lang]
+
+### 📫 How to reach me: ...
+* By Email: preethamjohn77@gmail.com or pj323@nau.edu
+* On LinkedIn: [Preetham John](https://www.linkedin.com/in/preetham-john/)
+* On Discord: preetham#9428
+
+
+- 🔭 I’m currently working on DataScience Projects
+- 🌱 I’m currently learning AI/ML algorithms, and Cloud computing (AWS/Azure/Docker)
+- 🤔 I’m looking for help with Jobs
+
 -->
