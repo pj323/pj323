@@ -3,7 +3,9 @@
 [top-lang]: https://github-readme-stats.vercel.app/api/top-langs?username=pj323&layout=compact&langs_count=8&title_color=3498db&bg_color=ffffff00&text_color=718096
 
 ### 👋🏽 Hello There! I'm open to work!
-Graduated in May 2022. Affected by layoffs at Amazon. I am currently Seeking Full-Time Opportunities in Software Engineering | Data Science Engineer | Full Stack Developer. I am an enthusiastic and a dedicated engineer towards technology. I am always excited to learn new things and also have a good amount of knowledge of software development.  
+Graduated in May 2022. Affected by layoffs at Amazon. I am currently Seeking Full-Time Opportunities in Software Engineering | Data Science Engineer | Full Stack Developer. I am an enthusiastic and a dedicated engineer towards technology. I am always excited to learn new things and also have a good amount of knowledge of software development. 
+
+### 📄 Resume: [Preetham_John_Resume](https://github.com/pj323/pj323/blob/main/Preetham%20John%20Resume.pdf)
 
 ### :bar_chart: Statistics
 <!-- ![stats] -->
