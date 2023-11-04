@@ -5,6 +5,11 @@
 ### 👋🏽 Hello There! I'm open to work!
 Graduated in May 2022. Affected by layoffs at Amazon. I am currently Seeking Full-Time Opportunities in Software Engineering | Data Science Engineer | Full Stack Developer. I am an enthusiastic and a dedicated engineer towards technology. I am always excited to learn new things and also have a good amount of knowledge of software development. 
 
+
+| Availibility to Start | Immediately |
+| --- | --- |
+| Interview Availibility | Monday to Friday 08:00 AM to 05:00 PM PST |
+
 ### 📄 Resume: 
 [Preetham_John_Resume](https://github.com/pj323/pj323/blob/main/Preetham%20John%20Resume.pdf)
 
