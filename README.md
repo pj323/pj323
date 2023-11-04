@@ -13,6 +13,11 @@ Graduated in May 2022. Affected by layoffs at Amazon. I am currently Seeking Ful
 ### 📄 Resume: 
 [Preetham_John_Resume](https://github.com/pj323/pj323/blob/main/Preetham%20John%20Resume.pdf)
 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/preethamjohn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
 ### :bar_chart: Statistics
 <!-- ![stats] -->
 
