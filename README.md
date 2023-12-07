@@ -4,7 +4,7 @@
 
 ### 👋🏽 Hello There! I'm open to work!
 # [preejohn.com](https://preejohn.com)
-Graduated in May 2022. Affected by layoffs at Amazon. Have close to around 2+ years of experience in Software Development. I am currently Seeking Full-Time Opportunities in Software Engineering | Data Science Engineer | Full Stack Developer. I am an enthusiastic and a dedicated engineer towards technology. I am always excited to learn new things and also have a good amount of knowledge of software development. 
+Graduated in May 2022. Affected by layoffs at Amazon. Have close to around 4+ years of experience in Software Development. I am currently Seeking Full-Time Opportunities in Software Engineering | Data Science Engineer | Full Stack Developer. I am an enthusiastic and a dedicated engineer towards technology. I am always excited to learn new things and also have a good amount of knowledge of software development. 
 
 
 | Availibility to Start | Immediately |
