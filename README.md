@@ -30,10 +30,3 @@ Software Development Engineer with over 3+ years of expertise in designing, deve
 * By Email: preethamjohn77@gmail.com or preethamjohn05@gmail.com
 * On LinkedIn: [Preetham John](https://www.linkedin.com/in/preetham-john/)
 * On Discord: preethamjohn
-
-
-- 🔭 I’m currently working on DataScience Projects
-- 🌱 I’m currently learning AI/ML algorithms, and Cloud computing (AWS/Azure/Docker)
-- 🤔 I’m looking for help with Jobs
-
-
