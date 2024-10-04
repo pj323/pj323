@@ -10,7 +10,7 @@ Software Development Engineer with over 3+ years of expertise in designing, deve
 
 ### Availibility
 
-|---|---|
+
 | Interview Availibility | Monday to Friday 08:00 AM to 05:00 PM PST |
 
 ### 📄 Resume: 
