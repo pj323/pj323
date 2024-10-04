@@ -4,7 +4,10 @@
 
 ### 👋🏽 Hello There! I'm open to work!
 # [preejohn.com](https://preejohn.com)
-Graduated in May 2022. Affected by layoffs at Amazon. Have close to around 4+ years of experience in Software Development. I am currently Seeking Full-Time Opportunities in Software Engineering | Data Science Engineer | Full Stack Developer. I am an enthusiastic and a dedicated engineer towards technology. I am always excited to learn new things and also have a good amount of knowledge of software development. 
+Software Development Engineer with over 3+ years of expertise in designing, developing, and optimizing complex software solutions across various industries,
+including cloud security and data analytics. Proficient in Java, Python, and JavaScript, with a robust technical foundation in full-stack development, cloud
+technologies (AWS, Azure, GCP), and Agile methodologies. Recognized for enhancing system performance, reducing operational costs, and driving continuous
+improvements through innovative engineering solutions. 
 
 
 | Availibility to Start | Immediately |
