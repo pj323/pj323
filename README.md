@@ -4,7 +4,7 @@
 
 ### 👋🏽 Hello There! I'm open to work!
 # [preejohn.com](https://preejohn.com)
-<p align="center">
+<p align="left">
 Software Development Engineer with over 3+ years of expertise in designing, developing, and optimizing complex software solutions across various industries, including cloud security and data analytics. Proficient in Java, Python, and JavaScript, with a robust technical foundation in full-stack development, cloud technologies (AWS, Azure, GCP), and Agile methodologies. Recognized for enhancing system performance, reducing operational costs, and driving continuous improvements through innovative engineering solutions. 
 </p>
 
